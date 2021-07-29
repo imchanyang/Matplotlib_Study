@@ -36,3 +36,4 @@ axes[0].plot(x, np.sin(x))
 # 두번째는 cos 그래프
 axes[1].plot(x, np.cos(x))
 fig.savefig("sin&cos.png")
+
