@@ -26,7 +26,7 @@ plt.savefig('picture.png')
 
 
 # 그래프 저장하기2 : sin, cos 그래프
-# PI*10 너비에 500새의 점을 균일하게 찍기
+# PI*10 너비에 500개의 점을 균일하게 찍기
 x = np.linspace(0, np.pi * 10, 500)
 
 # 2개의 그래프가 들어가는 Figure 생성(행, 열)

@@ -19,6 +19,6 @@ plt.ylabel("Y")
 plt.legend(
     shadow=True,
     borderpad=1,
-    loc="upper right",
+    loc="upper right"
 )
 plt.show()
